@@ -1,1 +1,1 @@
-My experience in Shell variables and expansions
+This is my first experience of Shell variables and expansions in ALX
